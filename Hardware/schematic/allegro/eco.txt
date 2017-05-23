@@ -1,0 +1,204 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/NhatThanh/Desktop/New folder/Thietke1/PCBdesign/mainFinal.brd      |
+|                                                    Mon Mar 27 16:48:47 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.1           C4.2           C5.2           
+                                 J1.1           J2.1           J5.2           
+                                 L1.2           R4.2           R7.2           
+                                 R8.2           R9.2           R10.2          
+                                 U1.1           U1.2           U1.16          
+                                 U1.27          U1.28          U1.30          
+                                 U1.32          U1.38          U1.43          
+                                 U1.55          U1.56          U1.57          
+                                 U1.58          U1.59          U1.60          
+                                 U1.61          U1.62          U1.63          
+                                 U2.1           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01152       pins ADDED TO this new net
+                                 R4.1           S1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08323       pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 U1.36          U1.37          U1.40          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10829       pins ADDED TO this new net
+                                 J3.1           R7.1           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10833       pins ADDED TO this new net
+                                 J3.2           U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10837       pins ADDED TO this new net
+                                 J3.3           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10841       pins ADDED TO this new net
+                                 J3.4           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12921       pins ADDED TO this new net
+                                 L1.1           U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18108       pins ADDED TO this new net
+                                 R10.1          U1.34          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18112       pins ADDED TO this new net
+                                 R9.1           U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N33058       pins ADDED TO this new net
+                                 J4.2           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/NhatThanh/Desktop/New folder/Thietke1/PCBdesign/mainFinal.brd      |
+|                                                    Mon Mar 27 16:48:47 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N545706      pins ADDED TO this new net
+                                 D1.2           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N545710      pins ADDED TO this new net
+                                 D2.2           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NLINK        pins ADDED TO this new net
+                                 R1.1           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NREADY       pins ADDED TO this new net
+                                 R2.1           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRESET       pins ADDED TO this new net
+                                 C5.1           R3.2           S1.1           
+                                 U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SOP2         pins ADDED TO this new net
+                                 J4.1           R8.1           U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWITCH       pins ADDED TO this new net
+                                 J1.2           R6.2           U1.42          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_RX     pins ADDED TO this new net
+                                 J2.2           U1.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_TX     pins ADDED TO this new net
+                                 J2.3           U1.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_3.3V     pins ADDED TO this new net
+                                 D1.1           D2.1           J5.1           
+                                 R3.1           R5.1           R6.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/NhatThanh/Desktop/New folder/Thietke1/PCBdesign/mainFinal.brd      |
+|                                                    Mon Mar 27 16:48:47 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2_0.45-GHZ ANT_ANT_AH316M_2.45-
+ CAP NP_INDC_0402CS_1PF
+ CAP NP_SMC0805_0.1UF
+ CAP NP_SMC0805_22UF
+ CAPACITOR POL_CAPPOL220U16V_220
+ CC3200MOD_0_CC3200MOD_CC3200MOD
+ HEADER 2_HEADER21P25MM_HEADER 2
+ HEADER 3_HEADER31P25MM_HEADER 3
+ HEADER 4_HEADER42P54MM_HEADER 4
+ INDUCTOR_CC0402_3.6NH
+ LED_0_LED_LED
+ RESISTOR_0_SMR0805_75
+ RESISTOR_0_SMR0805_100K
+ RESISTOR_0_SMR0805_100R
+ RESISTOR_0_SMR0805_2.7K
+ RESISTOR_0_SMR0805_4.7K
+ R_SMR0805_4.7K
+ SW PUSHBUTTON_BUTTON_SW PUSHBUT
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/NhatThanh/Desktop/New folder/Thietke1/PCBdesign/mainFinal.brd      |
+|                                                    Mon Mar 27 16:48:47 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR POL_CAPPOL220U16V_220 
+ C2                  CAP NP_SMC0805_22UF   
+ C3                  CAP NP_SMC0805_0.1UF  
+ C4                  CAP NP_INDC_0402CS_1PF 
+ C5                  CAP NP_SMC0805_0.1UF  
+ D1                  LED_0_LED_LED         
+ D2                  LED_0_LED_LED         
+ J1                  HEADER 2_HEADER21P25MM_HEADER 2 
+ J2                  HEADER 3_HEADER31P25MM_HEADER 3 
+ J3                  HEADER 4_HEADER42P54MM_HEADER 4 
+ J4                  HEADER 2_HEADER21P25MM_HEADER 2 
+ J5                  HEADER 2_HEADER21P25MM_HEADER 2 
+ L1                  INDUCTOR_CC0402_3.6NH 
+ R1                  RESISTOR_0_SMR0805_75 
+ R2                  RESISTOR_0_SMR0805_75 
+ R3                  RESISTOR_0_SMR0805_4.7K 
+ R4                  RESISTOR_0_SMR0805_100R 
+ R5                  R_SMR0805_4.7K        
+ R6                  R_SMR0805_4.7K        
+ R7                  RESISTOR_0_SMR0805_100K 
+ R8                  RESISTOR_0_SMR0805_2.7K 
+ R9                  RESISTOR_0_SMR0805_100K 
+ R10                 RESISTOR_0_SMR0805_100K 
+ S1                  SW PUSHBUTTON_BUTTON_SW PUSHBUT 
+ U1                  CC3200MOD_0_CC3200MOD_CC3200MOD 
+ U2                  2_0.45-GHZ ANT_ANT_AH316M_2.45- 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/NhatThanh/Desktop/New folder/Thietke1/PCBdesign/mainFinal.brd      |
+|                                                    Mon Mar 27 16:48:47 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ J3.4                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ S1.2                           PRIM_FILE      .\pstchip.dat
+ U1.37                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  158                                            |
+|------------------------------------------------------------------------------|

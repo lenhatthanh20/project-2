@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>Web server</title>
+ 	 <meta http-equiv="refresh" content="1">
+ 	<meta name="description" content="Webserver"/>
+ 	<meta name="keyword" content="ubuntu"/>
+ 	<meta charset="utf-8"/>
+ 	<link rel="stylesheet" href="style.css">
+ 	
+ </head>
+ <body>
+ 	<div id="container">
+ 		<div id="menu">
+ 			<ul>
+ 				<li><a href="/index.html">Trang chủ</a></li>
+ 				<li><a href="/giamSat/giamsat.html">Giám sát</a></li>
+ 				<li><a href="#">LED</a></li>
+ 				<li>
+ 					<a href="#">IP Camera</a>
+ 					<ul class="sub-menu">
+ 						<li><a href="#">Theo dõi</a></li>
+ 						<li><a href="#">Webcam</a></li>
+ 					</ul>
+ 				</li>
+ 				<li>
+ 					<a href="#">App</a>
+ 					<ul class="sub-menu">
+ 						<li><a href="#">RFID</a></li>
+ 						<li><a href="#">UART</a></li>
+ 						<li><a href="#">USB</a></li>
+ 						<li><a href="#">Ethernet</a></li>
+ 					</ul>
+ 				</li>
+ 				<li><a href="#">Thông tin</a></li>
+ 			</ul>
+ 		</div><!menu>
+
+ 		<div id="content">
+ 			<div id="header">
+ 				<div id="logo"><img src="logo.png"></div><!them logo vao day>
+ 				<div id="slogan">
+ 					<p>Web server for NodeJS</p>
+ 				</div>
+ 			</div><!header>
+
+ 			<div class="call-to-action">
+ 				<h3>Tutorial made web server simple</h3>
+ 				<p>Điều khiển mọi thứ bằng web server</p>
+ 			</div><!call-to-action>
+
+ 			<div class="row" id="intro">
+ 			<h1>Trạng thái hiện tại: </h1>
+ 			<h1 id="state"></h1>
+ 			</div><!row>
+
+ 		</div><!content>
+ 	</div><!container>
+
+ 	<script type="text/javascript">
+ 		var HTTPrequest = new XMLHttpRequest();
+ 		function stateUpdate(){
+			HTTPrequest.onreadystatechange = function(){
+				if(this.readyState == 4 && this.status == 200){
+					document.getElementById("state").innerHTML = this.responseText;
+					//document.write(this.responseText);
+				}
+			};
+			HTTPrequest.open("GET", "state.asp", true);
+			HTTPrequest.send();
+		}
+		window.onload = stateUpdate;
+ 	</script>
+ </body>
+ </html>

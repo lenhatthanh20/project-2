@@ -1,0 +1,48 @@
+\t (00:00:16) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:16)     Journal start - Thu May 18 11:24:08 2017
+\t (00:00:16)         Host=DESKTOP-IGAUTOL User=NhatThanh Pid=5552 CPUs=4
+\t (00:00:16) 
+\t (00:00:17) Opening existing design...
+\d (00:00:18) Database opened: D:/thanh/baocao/layout/main2.brd
+\i (00:00:19) trapsize 4
+\i (00:00:19) trapsize 4
+\i (00:00:20) generaledit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 615.9 -189.3
+\i (00:00:33) trapsize 8
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 615.7 -189.6
+\i (00:00:34) trapsize 16
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 615.1 -191.2
+\i (00:00:34) trapsize 32
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 613.9 -192.5
+\i (00:00:34) trapsize 64
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 613.9 -192.5
+\i (00:00:34) trapsize 127
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 245.7 -192.5
+\i (00:00:34) trapsize 254
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -169.4 -192.5
+\i (00:00:35) trapsize 127
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -169.4 -192.5
+\i (00:00:35) trapsize 64
+\i (00:00:36) open 
+\i (00:00:44) fillin "C:\Users\NhatThanh\Desktop\pcb\board\main.brd"
+\i (00:00:44) cd "C:\Users\NhatThanh\Desktop\pcb\board"
+\t (00:00:44) Opening existing design...
+\t (00:00:44) Grids are drawn 80.00, 80.00 apart for enhanced viewability.
+\i (00:00:44) trapsize 2924
+\t (00:00:44)     Journal end - Thu May 18 11:24:37 2017

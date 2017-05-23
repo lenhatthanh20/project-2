@@ -1,0 +1,268 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : main2.brd                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Apr 07 10:43:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/thanh/baocao/layout/ar_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.25600                                  DARK 
+  SQUARE     0.03900                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01650      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.02280       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.15800       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.06200       0.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.05200       0.000 NO     DARK 
+  RECTANGLE  0.06200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.07900     x 0.07900       0.000 NO     DARK 
+
+     ar_TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/thanh/baocao/layout/ar_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.25600                                  DARK 
+  SQUARE     0.03900                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.04700     x 0.04700      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.05200       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.05200      90.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.05200       0.000 NO     DARK 
+
+     ar_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < D:/thanh/baocao/layout/ar_SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-515.0 -410.0)
+           ... using undefined line width of 6.0
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.0
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     ar_SILK_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < D:/thanh/baocao/layout/ar_SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (471.0 224.0)
+           ... using undefined line width of 6.0
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     ar_SILK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDMASK_BOTTOM >
+     TO FILE < D:/thanh/baocao/layout/ar_SOLDMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25600                                  DARK 
+  SQUARE     0.04500                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.05800     x 0.05800      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.06000      90.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.06000       0.000 NO     DARK 
+
+     ar_SOLDMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDMASK_TOP >
+     TO FILE < D:/thanh/baocao/layout/ar_SOLDMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25600                                  DARK 
+  SQUARE     0.04500                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01650      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.02280       0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.16600       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.06700       0.000 NO     DARK 
+  RECTANGLE  0.04530     x 0.04530       0.000 NO     DARK 
+  RECTANGLE  0.05800     x 0.05800       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.06700     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.08500       0.000 NO     DARK 
+
+     ar_SOLDMASK_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        ar_TOP created.
+        ar_BOTTOM created.
+        ar_SILK_BOTTOM created with warnings
+        ar_SILK_TOP created with warnings
+        ar_SOLDMASK_BOTTOM created.
+        ar_SOLDMASK_TOP created.
+
+ ARTWORK finished
