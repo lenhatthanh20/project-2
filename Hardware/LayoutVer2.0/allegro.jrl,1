@@ -1,0 +1,181 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu May 25 14:05:11 2017
+\t (00:00:02)         Host=DESKTOP-IGAUTOL User=NhatThanh Pid=512 CPUs=4
+\t (00:00:02) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: C:/Users/NhatThanh/Desktop/CC3200board/mainBoard2.brd
+\i (00:00:05) trapsize 31
+\i (00:00:05) trapsize 30
+\i (00:00:05) trapsize 31
+\i (00:00:05) trapsize 31
+\i (00:00:06) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 485.9 -485.0
+\i (00:00:06) trapsize 62
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 483.3 -487.5
+\i (00:00:06) trapsize 125
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 453.4 -525.0
+\i (00:00:06) trapsize 249
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 433.4 -539.9
+\i (00:00:06) trapsize 499
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -1218.0 -569.9
+\i (00:00:06) trapsize 998
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -588.8 89.8
+\i (00:00:07) trapsize 499
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -2794.4 89.8
+\i (00:00:07) trapsize 250
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -2794.4 89.9
+\i (00:00:07) trapsize 125
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -1354.8 -67.3
+\i (00:00:08) trapsize 250
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -1017.9 -72.2
+\i (00:00:08) trapsize 499
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -598.7 97.5
+\i (00:00:09) trapsize 250
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -598.7 97.5
+\i (00:00:09) trapsize 125
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -598.7 97.6
+\i (00:00:09) trapsize 62
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -598.6 97.6
+\i (00:00:09) trapsize 31
+\i (00:00:13) setwindow form.mini
+\i (00:00:13) FORM mini subcolor 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -730.9 102.6
+\i (00:00:14) trapsize 62
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -723.3 141.3
+\i (00:00:18) trapsize 31
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -723.3 141.4
+\i (00:00:18) trapsize 62
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -723.3 141.3
+\i (00:00:18) trapsize 125
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -723.4 141.4
+\i (00:00:19) trapsize 250
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out -409.0 588.9
+\i (00:00:21) trapsize 499
+\i (00:00:22) roam y 96 
+\i (00:00:22) roam y 96
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -728.4 -199.5
+\i (00:00:23) trapsize 250
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -728.4 -199.5
+\i (00:00:23) trapsize 125
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:24) roam x 96 
+\i (00:00:24) roam x 96
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -788.3 92.4
+\i (00:00:27) trapsize 62
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -788.3 92.4
+\i (00:00:27) trapsize 31
+\i (00:00:27) pick grid -793.9 81.9
+\t (00:00:27) last pick:  -794.0  82.0
+\i (00:00:27) prepopup -793.9 81.9
+\i (00:00:29) pop dyn_option_select @:@Delete 
+\i (00:00:29) delete 
+\i (00:00:29) generaledit 
+\i (00:00:30) pick grid -766.5 110.6
+\t (00:00:30) last pick:  -766.0  111.0
+\i (00:00:30) prepopup -766.5 110.6
+\i (00:00:31) pop dyn_option_select @:@Delete 
+\i (00:00:31) delete 
+\i (00:00:31) generaledit 
+\i (00:00:33) pick grid -714.7 180.4
+\t (00:00:33) last pick:  -715.0  180.0
+\i (00:00:33) prepopup -714.7 180.4
+\i (00:00:34) pop dyn_option_select @:@Delete 
+\i (00:00:34) delete 
+\i (00:00:34) generaledit 
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -730.3 154.2
+\i (00:00:35) trapsize 62
+\i (00:00:35) roam x 96 
+\i (00:00:35) roam x 96
+\i (00:00:35) roam x 96 
+\i (00:00:35) roam x 96
+\i (00:00:36) roam x 96 
+\i (00:00:36) roam x 96
+\i (00:00:37) roam x 96 
+\i (00:00:37) roam x 96
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out -412.9 160.5
+\i (00:00:37) trapsize 125
+\i (00:00:38) save 
+\i (00:00:39) fillin yes 
+\i (00:00:39) generaledit 
+\i (00:01:04) nctape_full 
+\i (00:01:05) setwindow form.nc_drill
+\i (00:01:05) FORM nc_drill execute  
+\t (00:01:05) Starting NC Drill...
+\i (00:01:08) FORM nc_drill cancel  
+\i (00:01:08) setwindow pcb
+\i (00:01:08) generaledit 
+\i (00:01:10) artwork 
+\i (00:01:14) setwindow form.film_control
+\i (00:01:14) FORM film_control select_all  
+\i (00:01:15) FORM film_control create  
+\t (00:01:15) Checking db records
+\t (00:01:15)     checking for orphans...
+\t (00:01:15)     Checked 100 percent
+\t (00:01:15) Done dbdoctor.
+\t (00:01:15) Starting Create artwork films...
+\t (00:01:17) Plot generated.
+\i (00:01:18) FORM film_control ok  
+\i (00:01:18) setwindow pcb
+\i (00:01:18) generaledit 
+\i (00:01:20) exit 
+\e (00:01:20) Do you want to save the changes you made to C:/Users/NhatThanh/Desktop/CC3200board/mainBoard2.brd?
+\i (00:01:20) fillin yes 
+\t (00:01:21)     Journal end - Thu May 25 14:06:29 2017

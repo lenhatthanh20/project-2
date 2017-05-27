@@ -1,0 +1,120 @@
+\t (00:00:08) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:08)     Journal start - Thu May 25 14:46:04 2017
+\t (00:00:08)         Host=DESKTOP-IGAUTOL User=NhatThanh Pid=4620 CPUs=4
+\t (00:00:08) 
+\t (00:00:09) Opening existing design...
+\d (00:00:10) Database opened: C:/Users/NhatThanh/Desktop/CC3200board/mainBoard2.brd
+\i (00:00:10) trapsize 124
+\i (00:00:10) trapsize 121
+\i (00:00:10) trapsize 125
+\i (00:00:11) trapsize 125
+\i (00:00:11) generaledit 
+\i (00:00:30) setwindow form.mini
+\i (00:00:30) FORM mini subclass TOP 
+\i (00:00:31) FORM mini subcolor 0 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 200.9 614.6
+\i (00:00:33) trapsize 62
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 200.9 614.6
+\i (00:00:33) trapsize 31
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 200.9 614.6
+\i (00:00:33) trapsize 16
+\i (00:00:34) pick grid 213.1 606.9
+\t (00:00:34) last pick:  213.0  607.0
+\i (00:00:35) prepopup 213.4 606.2
+\i (00:00:39) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:00:39) mod padstack 
+\i (00:00:42) setwindow form.padedit
+\i (00:00:42) FORM padedit units Millimeter 
+\i (00:00:43) fillin yes 
+\w (00:00:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:45) FORM padedit layers  
+\i (00:00:49) FORM padedit grid row bottom 
+\i (00:00:52) FORM padedit width 1 
+\i (00:00:56) FORM padedit width_ant 1 
+\i (00:00:59) pse_update_exit 
+\i (00:01:01) setwindow text
+\i (00:01:01) close 
+\i (00:01:02) fillin yes 
+\w (00:01:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:02) DRC Required please wait...
+\t (00:01:02) Performing DRC...
+\t (00:01:02) Multithreaded DRC update (4 threads).
+\t (00:01:03) No DRC errors detected.
+\i (00:01:03) setwindow pcb
+\i (00:01:03) generaledit 
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 208.1 576.0
+\i (00:01:03) trapsize 31
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 193.7 605.9
+\i (00:01:04) trapsize 16
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 193.7 606.0
+\i (00:01:04) trapsize 8
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 187.8 606.0
+\i (00:01:05) trapsize 4
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 185.6 606.0
+\i (00:01:06) trapsize 8
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 185.6 606.0
+\i (00:01:06) trapsize 16
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 184.3 605.1
+\i (00:01:06) trapsize 31
+\i (00:01:07) pick grid 133.1 576.4
+\t (00:01:07) last pick:  133.0  576.0
+\i (00:01:14) shape global param 
+\i (00:01:15) generaledit 
+\i (00:01:16) setwindow form.dyn_xshape
+\i (00:01:16) FORM dyn_xshape force_update  
+\t (00:01:16) Updating dynamic shape (1 of 2) Gnd, Boundary/Bottom @ (9.0 -949.0) ...
+\t (00:01:16) Updating dynamic shape (2 of 2) Gnd, Boundary/Top @ (8.0 -948.0) ...
+\i (00:01:18) FORM dyn_xshape cancel  
+\i (00:01:19) setwindow pcb
+\i (00:01:19) status 
+\i (00:01:20) generaledit 
+\i (00:01:22) setwindow form.status
+\i (00:01:22) FORM status done  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 164.9 623.8
+\i (00:01:23) trapsize 62
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 164.9 623.9
+\i (00:01:23) trapsize 125
+\i (00:01:25) island_delete 
+\t (00:01:25) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out -204.2 237.3
+\i (00:01:26) trapsize 249
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 823.5 97.6
+\i (00:01:27) trapsize 125
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 823.5 92.6
+\i (00:01:27) trapsize 62
+\i (00:01:29) pick grid 589.0 10.3
+\t (00:01:29) last pick:  589.0  10.0
+\i (00:01:29) prepopup 591.5 26.6
+\i (00:01:30) done
